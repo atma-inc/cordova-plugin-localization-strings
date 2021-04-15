@@ -1,10 +1,10 @@
 {
   "name": "@atma/cordova-plugin-localization-strings",
-  "version": "3.2.1",
-  "description": "Cordova Plugin for handling localization strings on InfoPlist.strings and Localizable.strings on iOS, strings.xml on Android",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for handling localization strings on InfoPlist.strings and Localizable.strings on iOS, strings.xml on Android.This package is fork of cordova-plugin-localization-strings.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvinhokk/cordova-plugin-localization-strings.git"
+    "url": "git+https://github.com/atma-inc/cordova-plugin-localization-strings.git"
   },
   "engines": [
     {
@@ -38,10 +38,9 @@
   "devDependencies": {},
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kelvinhokk/cordova-plugin-localization-strings.git/issues"
+    "url": "git+https://github.com/atma-inc/cordova-plugin-localization-strings.git/issues"
   },
-  "homepage": "https://github.com/kelvinhokk/cordova-plugin-localization-strings.git",
-  "main": "index.js",
+  "homepage": "git+https://github.com/atma-inc/cordova-plugin-localization-strings.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
